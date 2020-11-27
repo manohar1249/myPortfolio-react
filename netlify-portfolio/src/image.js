@@ -4,7 +4,7 @@ import img from './manohar.jpg'
 
 
 const Img = () => {
-        return ( <img src ={img} alt="profile-photo" /> )
+        return ( <img src ='manohar.jpg' alt="profile-photo" /> )
  }
 
  export default Img;
